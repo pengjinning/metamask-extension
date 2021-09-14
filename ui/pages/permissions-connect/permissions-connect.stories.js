@@ -73,7 +73,6 @@ export const PermissionPageContainerComponent = () => {
           cancelButtonType="default"
           onSubmit={action('Account(s) Connected')}
           submitText="connect"
-          submitButtonType="confirm"
           buttonSizeLarge={false}
         />
       </div>
